@@ -1,0 +1,16 @@
+/** @format */
+body {
+	background-color: blanchedalmond;
+}
+
+h2 {
+	color: cornflowerblue;
+}
+
+.active {
+	color: tomato;
+}
+
+.font-heavy {
+	background-color: aliceblue;
+}
