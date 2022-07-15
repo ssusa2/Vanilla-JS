@@ -14,3 +14,7 @@ h2 {
 .font-heavy {
 	background-color: aliceblue;
 }
+
+.hidden {
+	display: none;
+}
